@@ -1,0 +1,42 @@
+@font-face {
+    src: url(font/NeueMontreal-Bold.otf);
+    font-family: 'acetate';
+    font-weight: bold;
+}
+
+.iramax {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.left {
+    left: 0;
+    background-color: lightgrey;
+}
+
+.left h1 {
+    color: white;
+}
+
+.right {
+    right: 0;
+    background-color: #EFF9F0;
+}
+
+.right h1 {
+    color: #FF7A00;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: 'acetate';
+}
