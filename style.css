@@ -4,7 +4,7 @@
     font-weight: bold;
 }
 
-.iramax {
+.iramax.left {
     height: 100%;
     width: 50%;
     position: fixed;
@@ -12,24 +12,28 @@
     top: 0;
     overflow: hidden;
     padding-top: 20px;
-}
-
-.left {
     left: 0;
-    background-color: lightgrey;
+    background-color: bisque;
 }
 
 .left h1 {
-    color: white;
+    color: mintcream;
 }
 
-.right {
+.iramax.right {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow: hidden;
+    padding-top: 20px;
     right: 0;
-    background-color: #EFF9F0;
+    background-color: honeydew;
 }
 
 .right h1 {
-    color: #FF7A00;
+    color: tomato;
 }
 
 .centered {
@@ -39,4 +43,58 @@
     transform: translate(-50%, -50%);
     text-align: center;
     font-family: 'acetate';
+}
+
+.contacts {
+    position: absolute;
+    width: 99%;
+    z-index: 2;
+    text-align: center;
+    font-family: 'acetate';
+}
+
+.print {
+    position: absolute;
+    z-index: 2;
+    text-align: left;
+    font-family: 'acetate';
+    left: 3%;
+}
+
+.painting {
+    position: absolute;
+    z-index: 2;
+    text-align: right;
+    font-family: 'acetate';
+    right: 3%;
+}
+
+.about {
+    position: absolute;
+    z-index: 2;
+    left: 3%;
+    font-family: 'acetate';
+    bottom: 1%;
+}
+
+.since {
+    position: absolute;
+    z-index: 2;
+    right: 3%;
+    font-family: 'acetate';
+    bottom: 1%;
+}
+
+.works {
+    position: absolute;
+    width: 99%;
+    z-index: 2;
+    text-align: center;
+    font-family: 'acetate';
+    bottom: 1%;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
 }
