@@ -13,10 +13,10 @@
     overflow: hidden;
     padding-top: 20px;
     left: 0;
-    background-color: bisque;
+    background-color: #D0A800;
 }
 
-.left h1 {
+.left h2 {
     color: mintcream;
 }
 
@@ -29,11 +29,11 @@
     overflow: hidden;
     padding-top: 20px;
     right: 0;
-    background-color: honeydew;
+    background-color: #FFB4E1;
 }
 
-.right h1 {
-    color: tomato;
+.right h2 {
+    color: red;
 }
 
 .centered {
@@ -97,4 +97,51 @@
 .header a {
     text-decoration: none;
     color: black;
+}
+
+.clients {
+    height: 100%;
+    width: 40%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow: hidden;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    left: 0;
+    background-color: tomato;
+    text-align: justify;
+}
+
+.clients h2 {
+    color: honeydew;
+    font-family: 'acetate';
+}    
+
+.info {
+    height: 100%;
+    width: 40%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow: hidden;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    right: 0;
+    background-color: honeydew;
+    text-align: justify;
+}
+
+.info h2 {
+    color: tomato;
+    font-family: 'acetate';
+}   
+
+.info a {
+    text-decoration: none;
+    color: tomato;    
 }
