@@ -91,6 +91,32 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/IRAMAX/Desktop/acet/js/script.js",
+			"settings":
+			{
+				"buffer_size": 4415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/acet/index.html",
+			"settings":
+			{
+				"buffer_size": 675,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/acet/style.css",
+			"settings":
+			{
+				"buffer_size": 10990,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -136,22 +162,25 @@
 	},
 	"expanded_folders":
 	[
+		"/C/Users/IRAMAX/Desktop/acet",
+		"/C/Users/IRAMAX/Desktop/acet/js"
 	],
 	"file_history":
 	[
+		"/C/Users/IRAMAX/Documents/GitHub/acetate/acetate.sublime-project",
+		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/style.css",
+		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm.html",
 		"/C/Users/IRAMAX/Documents/GitHub/acetate/style.css",
 		"/C/Users/IRAMAX/Documents/GitHub/acetate/index.html",
 		"/C/Users/IRAMAX/Documents/GitHub/acetate/requestprint.html",
 		"/C/Users/IRAMAX/Documents/GitHub/sleek/style.css",
 		"/C/Users/IRAMAX/Desktop/sleek/index.html",
 		"/C/Users/IRAMAX/Desktop/sleek/style.css",
-		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm.html",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/SimplexNoise.js",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/three.min.js",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/GPUComputationRenderer.js",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/OrbitControls.js",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/dat.gui.min.js",
-		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/style.css",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/Detector.js",
 		"/C/Users/IRAMAX/Documents/GitHub/acetate/contact.html",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/analytics.js",
@@ -196,13 +225,103 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/IRAMAX/Desktop/acet/js/script.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1217.33333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 1,
+					"file": "/C/Users/IRAMAX/Desktop/acet/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/IRAMAX/Desktop/acet/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7424,
+								7424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6141.33333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -234,7 +353,7 @@
 		"cols":
 		[
 			0.0,
-			0.518326225904,
+			0.365678474593,
 			1.0
 		],
 		"rows":
@@ -290,7 +409,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 274.0,
+	"side_bar_width": 174.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
