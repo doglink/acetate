@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"l",
+				"left\ttext-align"
+			],
+			[
+				"FON",
+				"font-family\tproperty"
+			],
+			[
+				"botto",
+				"margin-bottom\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
 				"fo",
 				"font-family\tproperty"
 			],
@@ -22,18 +66,6 @@
 			[
 				"padd",
 				"padding-bottom\tproperty"
-			],
-			[
-				"pa",
-				"padding-right\tproperty"
-			],
-			[
-				"pad",
-				"padding-left\tproperty"
-			],
-			[
-				"fon",
-				"font-family\tproperty"
 			],
 			[
 				"text-",
@@ -80,10 +112,6 @@
 				"align-content\tproperty"
 			],
 			[
-				"bac",
-				"background-color\tproperty"
-			],
-			[
 				"tex",
 				"text-decoration-color\tproperty"
 			]
@@ -92,29 +120,30 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/IRAMAX/Desktop/acet/js/script.js",
+			"file": "/D/ACETATE/one/acetate/index.html",
 			"settings":
 			{
-				"buffer_size": 4415,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/IRAMAX/Desktop/acet/index.html",
-			"settings":
-			{
-				"buffer_size": 675,
+				"buffer_size": 16259,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/IRAMAX/Desktop/acet/style.css",
+			"file": "/D/ACETATE/one/acetate/js/style2.css",
 			"settings":
 			{
-				"buffer_size": 10990,
+				"buffer_size": 942,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/ACETATE/one/acetate/js/style.css",
+			"settings":
+			{
+				"buffer_size": 2372,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -162,11 +191,43 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/IRAMAX/Desktop/acet",
-		"/C/Users/IRAMAX/Desktop/acet/js"
+		"/C/Users/IRAMAX/Documents/GitHub/acetate"
 	],
 	"file_history":
 	[
+		"/D/ACETATE/one/acetate/contact.html",
+		"/D/ACETATE/one/acetate/acetate.html",
+		"/D/ACETATE/one/acetate/requestprint.html",
+		"/D/ACETATE/one/acetate/js/script.js",
+		"/D/ACETATE/one/acetate/js/style.css",
+		"/D/ACETATE/acet/index.html",
+		"/D/ACETATE/one/acetate/js/Detector.js",
+		"/D/ACETATE/acet/style.css",
+		"/D/ACETATE/acet/js/script.js",
+		"/D/ACETATE/one/acetate/js/analytics.js",
+		"/C/Users/IRAMAX/Desktop/Convolve.arp",
+		"/D/MOSCOW CODING SCHOOL/homewerk/SQL/style.css",
+		"/D/MOSCOW CODING SCHOOL/homewerk/SQL/index.html",
+		"/C/Users/IRAMAX/Desktop/sleek/doglink.github.io/style.css",
+		"/C/Users/IRAMAX/Desktop/sleek/doglink.github.io/index.html",
+		"/C/Users/IRAMAX/Pictures/LAGERFELD/script.js",
+		"/C/Users/IRAMAX/Pictures/LAGERFELD/head.fbx",
+		"/C/Users/IRAMAX/Pictures/LAGERFELD/lagershmager/scripts/script.js",
+		"/C/Users/IRAMAX/Desktop/jquery.ripples-master/demo/style.css",
+		"/C/Users/IRAMAX/Desktop/jquery.ripples-master/demo/index.html",
+		"/C/Users/IRAMAX/Desktop/sleek/doglink.github.io/vanta.fog.min.js",
+		"/C/Users/IRAMAX/Desktop/sleek/doglink.github.io/fx.js",
+		"/C/Users/IRAMAX/Desktop/jquery.ripples-master/build/rollup.config.js",
+		"/C/Users/IRAMAX/Desktop/jquery.ripples-master/build/rollup.config-min.js",
+		"/C/Users/IRAMAX/Desktop/jquery.ripples-master/dist/jquery.ripples-min.js",
+		"/C/Users/IRAMAX/Desktop/jquery.ripples-master/dist/jquery.ripples.js",
+		"/C/Users/IRAMAX/Desktop/jquery.ripples-master/src/main.js",
+		"/C/Users/IRAMAX/Desktop/one/acetate/requestpainting.html",
+		"/C/Users/IRAMAX/Desktop/one/acetate/contact.html",
+		"/C/Users/IRAMAX/Desktop/one/acetate/acetate.html",
+		"/C/Users/IRAMAX/Desktop/one/acetate/js/style.css",
+		"/C/Users/IRAMAX/Desktop/acet/style.css",
+		"/C/Users/IRAMAX/Desktop/acet/index.html",
 		"/C/Users/IRAMAX/Documents/GitHub/acetate/acetate.sublime-project",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm_files/style.css",
 		"/C/Users/IRAMAX/Desktop/webgl_water/Julian Humm.html",
@@ -204,6 +265,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"НАЗАД",
 			"border",
 			"#FFB4E1",
 			"10",
@@ -230,55 +292,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/IRAMAX/Desktop/acet/js/script.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 4415,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1217.33333333,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"file": "/C/Users/IRAMAX/Desktop/acet/index.html",
+					"file": "/D/ACETATE/one/acetate/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 675,
+						"buffer_size": 16259,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								566,
-								566
+								644,
+								644
 							]
 						],
 						"settings":
@@ -287,39 +313,76 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 228.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
-					"buffer": 2,
-					"file": "/C/Users/IRAMAX/Desktop/acet/style.css",
+					"buffer": 1,
+					"file": "/D/ACETATE/one/acetate/js/style2.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10990,
+						"buffer_size": 942,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7424,
-								7424
+								272,
+								272
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6141.33333333,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/ACETATE/one/acetate/js/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -353,7 +416,7 @@
 		"cols":
 		[
 			0.0,
-			0.365678474593,
+			0.490599294947,
 			1.0
 		],
 		"rows":
@@ -401,7 +464,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
