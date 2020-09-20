@@ -4,20 +4,96 @@
 		"selected_items":
 		[
 			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"col",
+				"col-count"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"jus",
+				"justify-all\ttext-align"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"background",
+				"background\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"dec",
+				"text-decoration\tproperty"
+			],
+			[
 				"i",
 				"italic\tfont-style"
 			],
 			[
 				"fon",
 				"font-style\tproperty"
-			],
-			[
-				"pad",
-				"padding-left\tproperty"
-			],
-			[
-				"pa",
-				"padding-right\tproperty"
 			],
 			[
 				"l",
@@ -32,20 +108,8 @@
 				"margin-bottom\tproperty"
 			],
 			[
-				"di",
-				"display\tproperty"
-			],
-			[
-				"ba",
-				"background-size\tproperty"
-			],
-			[
 				"marg",
 				"margin-bottom\tproperty"
-			],
-			[
-				"bac",
-				"background-size\tproperty"
 			],
 			[
 				"fo",
@@ -84,20 +148,8 @@
 				"justify-all\ttext-align"
 			],
 			[
-				"text",
-				"text-align\tproperty"
-			],
-			[
-				"col",
-				"color\tproperty"
-			],
-			[
 				"o",
 				"overflow\tproperty"
-			],
-			[
-				"alig",
-				"align-items\tproperty"
 			],
 			[
 				"ord",
@@ -110,40 +162,353 @@
 			[
 				"align",
 				"align-content\tproperty"
-			],
-			[
-				"tex",
-				"text-decoration-color\tproperty"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/D/ACETATE/one/acetate/index.html",
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot06.html",
 			"settings":
 			{
-				"buffer_size": 16259,
+				"buffer_size": 4956,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot6example.html",
+			"settings":
+			{
+				"buffer_size": 2457,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<style>"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/newinforene.html",
+			"settings":
+			{
+				"buffer_size": 3676,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<style><!--"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot02.html",
+			"settings":
+			{
+				"buffer_size": 2637,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot03.html",
+			"settings":
+			{
+				"buffer_size": 2566,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot04.html",
+			"settings":
+			{
+				"buffer_size": 1977,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot05.html",
+			"settings":
+			{
+				"buffer_size": 1949,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot07.html",
+			"settings":
+			{
+				"buffer_size": 3548,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot08.html",
+			"settings":
+			{
+				"buffer_size": 3581,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot09.html",
+			"settings":
+			{
+				"buffer_size": 3577,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot10.html",
+			"settings":
+			{
+				"buffer_size": 3599,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot11.html",
+			"settings":
+			{
+				"buffer_size": 2551,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot12.html",
+			"settings":
+			{
+				"buffer_size": 3566,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot13.html",
+			"settings":
+			{
+				"buffer_size": 3608,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot14.html",
+			"settings":
+			{
+				"buffer_size": 2340,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot15.html",
+			"settings":
+			{
+				"buffer_size": 5248,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot16.html",
+			"settings":
+			{
+				"buffer_size": 3397,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot17.html",
+			"settings":
+			{
+				"buffer_size": 2986,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot18.html",
+			"settings":
+			{
+				"buffer_size": 2504,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot19.html",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot20.html",
+			"settings":
+			{
+				"buffer_size": 2996,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot21.html",
+			"settings":
+			{
+				"buffer_size": 4271,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot22.html",
+			"settings":
+			{
+				"buffer_size": 4131,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot23.html",
+			"settings":
+			{
+				"buffer_size": 2826,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot24.html",
+			"settings":
+			{
+				"buffer_size": 3863,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot25.html",
+			"settings":
+			{
+				"buffer_size": 4277,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot26.html",
+			"settings":
+			{
+				"buffer_size": 3990,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot27.html",
+			"settings":
+			{
+				"buffer_size": 3695,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<style type=\"text/css\">\n\t@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');\n\n\tp {\n\t\tcolor: black;\n\t\tfont-family: 'Playfair Display', serif;\n\t\tdisplay: block;\n\t\tmargin-left: 0;\n\t\tmargin-right: 0;\n\t\tpadding: 30px;\n\t}\n\n\tdiv {\n\tmargin-left: auto;\n    margin-right: auto;\n    width: 50em;\n    border: 1px solid red;\n\t}\n\n\thr {\n\t\twidth: 80%;\n\t\tborder-width: 1px;\n\t}\n\n</style>\n<div>\n<p class=\"auctionmail\">\nHea {$customer_name}\n<br>Õnnitleme võidu puhul!\n<br>Tehingu vormistamiseks võtame sinuga ühendust 24 tunni jooksul.\n<br>\n<br>Objekti andmed:\n<br>{$product_name}\n<br>\n<br>Alghind – {$base_price}\n<br>Sinu pakkumine – {$bid_amount}\n<br>\n<br>Parimate soovidega\n</p>\n<hr>\n<p class=\"auctionmail\">\nДорогой {$customer_name}\n<br>Поздравляем, ваша ставка выиграла.\n<br>Мы свяжемся с вами в течение 24 часов для оформления покупки.\n<br>\n<br>Сведения о товаре:\n<br>{$product_name}\n<br>\n<br>Начальная ставка – {$base_price}\n<br>Ваша ставка – {$bid_amount}\n<br>\n<br>С наилучшими пожеланиями\n</p>\n<hr>\n<p class=\"auctionmail\">\nDear {$customer_name}\n<br>Congratulation, the piece is now yours.\n<br>We will contact you within 24 hours to proceed with payment.\n<br>\n<br>Product Information:\n<br>{$product_name}\n<br>\n<br>Base Price – {$base_price}\n<br>Highest Bid – {$bid_amount}\n<br>\n<br>Regards\n</p>\n<div>\n\n\n<img src=\"https://d2w9rnfcy7mm78.cloudfront.net/8310959/large_27ec054378c9ad77ca1cc6d126df9de6.png?1597243433?bc=0\" alt=\"\" class=\"center\"><div style=\"font-family: 'Times New Roman', serif; font-size:medium; width: 600px; border: 1px solid silver; margin-left: auto; margin-right: auto;\"><p style=\"color: black; font-family: 'Times New Roman', serif; display: block; margin-left: 10%; margin-right: 10%; padding: 30px;\">Hea {$customer_name}<br>Õnnitleme võidu puhul!<br>Tehingu vormistamiseks võtame sinuga ühendust 24 tunni jooksul.<br><br>Objekti andmed:<br>{$product_name}<br>Alghind – {$base_price}<br>Sinu pakkumine – {$bid_amount}<br><br>Parimate soovidega<hr style=\"width: 80%; border-width: 1px;\">Дорогой {$customer_name}<br>Поздравляем, ваша ставка выиграла.<br>Мы свяжемся с вами в течение 24 часов для оформления покупки.<br><br>Сведения о товаре:<br>{$product_name}<br>Начальная ставка – {$base_price}<br>Ваша ставка – {$bid_amount}<br><br>С наилучшими пожеланиями<hr style=\"width: 80%; border-width: 1px;\">Dear {$customer_name}<br>Congratulation, the piece is now yours.<br>We will contact you within 24 hours to proceed with payment.<br><br>Product Information:<br>{$product_name}<br>Base Price – {$base_price}<br>Highest Bid – {$bid_amount}<br><br>Regards</p></div><footer style=\"display: none;\"></footer>\n\n\n\n<img src=\"https://d2w9rnfcy7mm78.cloudfront.net/8310959/large_27ec054378c9ad77ca1cc6d126df9de6.png?1597243433?bc=0\" alt=\"\" class=\"center\"><div style=\"font-family: 'Times New Roman', serif; font-size:medium; width: 600px; border: 1px solid silver; margin-left: auto; margin-right: auto;\"><p style=\"color: black; font-family: 'Times New Roman', serif; display: block; margin-left: 10%; margin-right: 10%; padding: 30px;\">Hea {$customer_name}<br>Keegi on pakkunud hinda üle.<br>Kui tahad võitu saada, palun tee uus pakkumine.<br><br>Objekti andmed:<br>{$product_name}<br>Alghind – {$base_price}<br>Sinu pakkumine – {$bid_amount}<br><br>Parimate soovidega<hr style=\"width: 80%; border-width: 1px;\">Дорогой {$customer_name}<br>Ваша ставка была перебита.<br>Если вы хотите выиграть аукцион, пожалуйста, сделайте новую ставку.<br><br>Сведения о товаре:<br>{$product_name}<br>Начальная ставка – {$base_price}<br>Ваша ставка – {$bid_amount}<br><br>С наилучшими пожеланиями<hr style=\"width: 80%; border-width: 1px;\">Dear {$customer_name}<br>There was a bid placed that is higher then yours.<br>If you want to have this piece in your collection, please, place a new bid.<br><br>Product Information:<br>{$product_name}<br>Base Price – {$base_price}<br>Your Bid – {$bid_amount}<br><br>Regards</p></div>\n\n\n\n\n<img src=\"https://d2w9rnfcy7mm78.cloudfront.net/8310959/large_27ec054378c9ad77ca1cc6d126df9de6.png?1597243433?bc=0\" alt=\"\" class=\"center\"><div style=\"font-family: 'Times New Roman', serif; font-size:medium; width: 600px; border: 1px solid silver; margin-left: auto; margin-right: auto;\"><p style=\"color: black; font-family: 'Times New Roman', serif; display: block; margin-left: 10%; margin-right: 10%; padding: 30px;\">Hea {$customer_name}<br>Sinu pakkumine on edukalt tehtud.<br><br>Objekti andmed:<br>{$product_name}<br>Alghind – {$base_price}<br>Sinu pakkumine – {$bid_amount}<br><br>Parimate soovidega<hr style=\"width: 80%; border-width: 1px;\">Дорогой {$customer_name}<br>Вы успешно сделали ставку.<br><br>Сведения о товаре:<br>{$product_name}<br>Начальная ставка – {$base_price}<br>Ваша ставка – {$bid_amount}<br><br>Желаем удачи!<hr style=\"width: 80%; border-width: 1px;\">Dear {$customer_name}<br>You have successfully placed a bid.<br><br>Product Information:<br>{$product_name}<br>Base Price – {$base_price}<br>Your Bid – {$bid_amount}<br><br>Regards</p></div>\n\n\n\n",
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/mails.html",
+			"file_size": 5666,
+			"file_write_time": 132417201980108432,
+			"settings":
+			{
+				"buffer_size": 5014,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/mailvova.html",
+			"settings":
+			{
+				"buffer_size": 19121,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/fff/code/index.html",
+			"settings":
+			{
+				"buffer_size": 1231,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<div class=\"colors\">"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/fff/code/style.css",
+			"settings":
+			{
+				"buffer_size": 10417,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "/* Please ❤ this if you like it! */"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/fff/code/player.js",
+			"settings":
+			{
+				"buffer_size": 2710,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "var player = $('.player'),"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/fff/code/eendex.html",
+			"settings":
+			{
+				"buffer_size": 589,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<audio src=\"${ song.url }\" id=\"audio\"></audio>"
+			}
+		},
+		{
+			"file": "/C/Users/IRAMAX/Desktop/fff/code/footer.html",
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<style>"
+			}
+		},
+		{
+			"file": "/D/nothinginteractive-gradient/dist/style.css",
+			"settings":
+			{
+				"buffer_size": 1494,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/D/ACETATE/one/acetate/js/style2.css",
+			"contents": "p {\n  color: #fff;\n  font-size: 1em;\n  font-weight: 700;\n}\np span {\n  display: inline-block;\n  position: relative;\n  -webkit-transform-style: preserve-3d;\n          transform-style: preserve-3d;\n  -webkit-perspective: 500;\n          perspective: 500;\n  -webkit-font-smoothing: antialiased;\n}\np span::before,\np span::after {\n  display: none;\n  position: absolute;\n  top: 0;\n  left: -1px;\n  -webkit-transform-origin: left top;\n          transform-origin: left top;\n  -webkit-transition: all ease-out 0.3s;\n  transition: all ease-out 0.3s;\n  content: attr(data-text);\n}\np span::before {\n  z-index: 1;\n  color: rgba(0,0,0,0.2);\n  -webkit-transform: scale(1.1, 1) skew(0deg, 20deg);\n          transform: scale(1.1, 1) skew(0deg, 20deg);\n}\np span::after {\n  z-index: 2;\n  color: #684da3;\n  text-shadow: -1px 0 1px #684da3, 1px 0 1px rgba(0,0,0,0.8);\n  -webkit-transform: rotateY(-40deg);\n          transform: rotateY(-40deg);\n}\np span:hover::before {\n  -webkit-transform: scale(1.1, 1) skew(0deg, 5deg);\n          transform: scale(1.1, 1) skew(0deg, 5deg);\n}\np span:hover::after {\n  -webkit-transform: rotateY(-10deg);\n          transform: rotateY(-10deg);\n}\np span + span {\n  margin-left: 0.3em;\n}\n@media (min-width: 20em) {\n  p {\n    font-size: 2em;\n  }\n  p span::before,\n  p span::after {\n    display: block;\n  }\n}\n@media (min-width: 30em) {\n  p {\n    font-size: 3em;\n  }\n}\n@media (min-width: 40em) {\n  p {\n    font-size: 5em;\n  }\n}\n@media (min-width: 60em) {\n  p {\n    font-size: 8em;\n  }\n}\nhtml,\nbody {\n  margin: 0;\n  padding: 0;\n  height: 100%;\n}\nbody {\n  display: -webkit-box;\n  display: flex;\n  -webkit-box-align: center;\n          align-items: center;\n  -webkit-box-pack: center;\n          justify-content: center;\n  background-color: #684da3;\n}",
+			"file": "/C/Users/IRAMAX/AppData/Local/Temp/Temp1_peeled-text-transforms.zip/peeled-text-transforms/dist/style.css",
+			"file_size": 1823,
+			"file_write_time": 132446202231151602,
 			"settings":
 			{
-				"buffer_size": 942,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/ACETATE/one/acetate/js/style.css",
-			"settings":
-			{
-				"buffer_size": 2372,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"buffer_size": 1748,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -191,15 +556,82 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/IRAMAX/Documents/GitHub/acetate"
 	],
 	"file_history":
 	[
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/rene.html",
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/reneproductpage.html",
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/descriptionpage.html",
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/y.html",
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/Andrus Johani x",
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/accountadres.html",
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/welcomingmail.html",
+		"/C/Users/IRAMAX/Desktop/fff.html",
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/password.html",
+		"/C/Users/IRAMAX/Desktop/hh/PURHO_files/style.css",
+		"/C/Users/IRAMAX/Downloads/prism (2).css",
+		"/C/Users/IRAMAX/Downloads/prism (4).css",
+		"/C/Users/IRAMAX/Downloads/prism (6).js",
+		"/C/Users/IRAMAX/Downloads/prism (4).js",
+		"/C/Users/IRAMAX/Downloads/prism (3).js",
+		"/C/Users/IRAMAX/Downloads/prism (2).js",
+		"/C/Users/IRAMAX/Downloads/school.css",
+		"/C/Users/IRAMAX/Downloads/prism.js",
+		"/C/Users/IRAMAX/Downloads/prism (3).css",
+		"/C/Users/IRAMAX/Downloads/prism (5).js",
+		"/C/Users/IRAMAX/Downloads/prism (1).css",
+		"/C/Users/IRAMAX/Downloads/prism (1).js",
+		"/C/Users/IRAMAX/Downloads/prism.css",
+		"/C/Users/IRAMAX/Downloads/get-programming-with-nodejs/unit_1/lesson_7/finish/confetti_cuisine/views/index.html",
+		"/C/Users/IRAMAX/Downloads/get-programming-with-nodejs/unit_1/lesson_7/finish/confetti_cuisine/public/css/confetti_cuisine.css",
+		"/C/Users/IRAMAX/AppData/Local/Temp/Temp1_get-programming-with-nodejs (1).zip/get-programming-with-nodejs/unit_1/lesson_7/start/confetti_cuisine/public/css/bootstrap.css",
+		"/C/Users/IRAMAX/AppData/Local/Temp/Temp1_get-programming-with-nodejs (1).zip/get-programming-with-nodejs/unit_1/lesson_7/start/confetti_cuisine/public/css/confetti_cuisine.css",
+		"/C/Users/IRAMAX/Desktop/themeoma27.css",
+		"/C/Users/IRAMAX/Desktop/theme.css",
+		"/C/Users/IRAMAX/Documents/fffont/wwwebfont/neustylesheet.css",
+		"/D/oo/style.css",
+		"/C/Users/IRAMAX/Documents/fffont/wwwebfont/stylesheet.css",
+		"/D/oo/body.css",
+		"/C/Users/IRAMAX/Desktop/хдйсхдйскда.js",
+		"/C/Users/IRAMAX/Downloads/Telegram Desktop/course.css",
+		"/C/Users/IRAMAX/Desktop/anton/butt.css",
+		"/C/Users/IRAMAX/Desktop/anton/noname.css",
+		"/C/Users/IRAMAX/AppData/Local/Temp/Temp1_get-programming-with-nodejs (1).zip/get-programming-with-nodejs/unit_1/lesson_6/finish/better_routes_6_3/router.js",
+		"/C/Users/IRAMAX/Desktop/lesson3.html",
+		"/C/Users/IRAMAX/Desktop/anton/Галерея нейросетевого искусства.html",
+		"/D/omanko images shopify/fog-with-es6-on-canvas/dist/script.js",
+		"/C/Users/IRAMAX/Downloads/Awesome Text Effects/Awesome Text Effects/index.html",
+		"/C/Users/IRAMAX/Downloads/Awesome Text Effects/Awesome Text Effects/style.css",
+		"/D/omanko images shopify/fog-with-es6-on-canvas/dist/index.html",
+		"/D/omanko images shopify/fog-with-es6-on-canvas/dist/style.css",
+		"/C/Users/IRAMAX/Desktop/anton/reset.min.css",
+		"/D/oo/index.html",
+		"/C/Users/IRAMAX/Documents/fffont/smoke/webgl-smoke/dist/style.css",
+		"/C/Users/IRAMAX/Documents/fffont/smoke/webgl-smoke/dist/script.js",
+		"/C/Users/IRAMAX/Documents/fffont/smoke/webgl-smoke/dist/index.html",
+		"/D/omanko gk/style.css",
+		"/D/omanko gk/smoke.js",
+		"/D/omanko gk/index.html",
+		"/D/followers-parser.js",
+		"/D/MOSCOW CODING SCHOOL/lessonstyle.css",
+		"/D/ACETATE/one/acetate.github.io/js/style.css",
+		"/D/ACETATE/one/acetate.github.io/shop.html",
+		"/D/ACETATE/one/acetate.github.io/index.html",
+		"/D/ACETATE/one/acetate.github.io/contact.html",
+		"/D/ACETATE/one/acetate.github.io/about.html",
+		"/D/ACETATE/one/acetate.github.io/silkscreen.html",
+		"/D/ACETATE/one/acetate.github.io/ordersilkscreen.html",
+		"/D/ACETATE/one/acetate.github.io/orderartyservice.html",
+		"/D/ACETATE/one/acetate.github.io/artyservice.html",
+		"/D/ACETATE/one/acetate.github.io/js/style2.css",
+		"/D/ACETATE/one/acetate/js/style.css",
+		"/D/ACETATE/one/acetate/js/style2.css",
+		"/D/ACETATE/one/acetate/index.html",
+		"/D/ACETATE/one/acetate/about.html",
 		"/D/ACETATE/one/acetate/contact.html",
 		"/D/ACETATE/one/acetate/acetate.html",
 		"/D/ACETATE/one/acetate/requestprint.html",
 		"/D/ACETATE/one/acetate/js/script.js",
-		"/D/ACETATE/one/acetate/js/style.css",
 		"/D/ACETATE/acet/index.html",
 		"/D/ACETATE/one/acetate/js/Detector.js",
 		"/D/ACETATE/acet/style.css",
@@ -251,7 +683,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -265,11 +697,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"НАЗАД",
-			"border",
-			"#FFB4E1",
-			"10",
-			"analytics"
+			"shop",
+			"shop.email",
+			"select",
+			".selector-wrapper",
+			"select",
+			"addto",
+			"btn",
+			"hover",
+			"footer",
+			"hover",
+			"input--block",
+			"hover",
+			"transition",
+			"hover",
+			"inset",
+			"dropdown",
+			"single-option",
+			"cleanslate",
+			"shopify",
+			"shopify-svg",
+			"pay",
+			"one-half",
+			"addToCart",
+			"#AddToCart",
+			"cart-submit-wrapper",
+			"option",
+			"main-content",
+			"product-single",
+			"grid product-single",
+			"one-half",
+			"medium-up",
+			"product-single",
+			"grid",
+			"txt--emphasis",
+			"hr",
+			"shopify-section",
+			"shopify-section-header",
+			"@",
+			"product-single",
+			"product",
+			"font",
+			"neu",
+			"check",
+			"checkout",
+			"disabled",
+			".site-header",
+			"header",
+			"Set",
+			"Set a global variable for theme.js ",
+			"page",
+			"cover",
+			"font-family",
+			"grid",
+			"body",
+			".ban",
+			".banner",
+			"banner",
+			"hr",
+			"banner",
+			"navigation",
+			"footer",
+			".mfp-close",
+			".input-gr",
+			"input-group",
+			"password-input",
+			"mfp",
+			"body ",
+			"sub-footer",
+			"footer",
+			"b, strong",
+			"site-header",
+			"textarea",
+			"site-header",
+			"cart.general.note",
+			"special",
+			"product-form",
+			"CartSpecialInstructions",
+			"grid",
+			"border:",
+			"border: 4px",
+			"product-single__q",
+			"product-single",
+			"white",
+			"double",
+			"product",
+			"product-sel",
+			"product-select",
+			"button",
+			"buttom",
+			"80",
+			"grid",
+			"site-footer",
+			"font",
+			"helvetica",
+			"$gutter",
+			".wrapper",
+			".sub-footer",
+			"cart",
+			"grid__item ",
+			"grid__item medium-up--one-half medium-up--text-right",
+			"product-single",
+			"site-nav",
+			"product-single",
+			"grid__item medium-up--one-half",
+			"footer",
+			"header",
+			"cart",
+			"site-header__cart",
+			"site-header",
+			"navigation",
+			"header",
+			"list",
+			"list--nav",
+			"sidebar-section",
+			"sidebar",
+			"grid__item ",
+			"grid__item navigation",
+			"grid__item",
+			"grid__item small--text-center ",
+			"grid__item small--text-center medium-up--one-fifth",
+			"product",
+			"foot",
+			"img",
+			"home",
+			"index",
+			"helvetica",
+			"font",
+			"typo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -287,24 +842,559 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 28,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/D/ACETATE/one/acetate/index.html",
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot06.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16259,
+						"buffer_size": 4956,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								644,
-								644
+								4956,
+								2549
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot6example.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1118,
+								1097
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<style>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 723.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/newinforene.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1552,
+								1522
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<style><!--",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 635.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot02.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1183,
+								1153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 641.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot03.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1856,
+								1856
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 738.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot04.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								980,
+								950
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 321.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot05.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 397.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot07.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot08.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot09.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 419.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot10.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1394,
+								1364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 448.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot11.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1120,
+								1090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 394.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot12.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot13.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1436,
+								1406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 500.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot14.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1092,
+								1062
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 372.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot15.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2097,
+								2067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 674.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot16.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1440,
+								1410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 302.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot17.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2986
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot18.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot19.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
 							]
 						],
 						"settings":
@@ -313,40 +1403,477 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 228.0,
+						"translation.y": 55.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 17,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 1,
-					"file": "/D/ACETATE/one/acetate/js/style2.css",
+					"buffer": 20,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot20.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 942,
+						"buffer_size": 2996,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								272,
-								272
+								124,
+								124
 							]
 						],
 						"settings":
 						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot21.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot22.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1267.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot23.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2826,
+								2826
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot24.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1334.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot25.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1382.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot26.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3990
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1329.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/lot27.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3695
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1278.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/mails.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5014,
+								5014
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2740.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/C/Users/IRAMAX/Desktop/hh/PURHO_files/mailvova.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19121,
+								19121
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 30,
+					"file": "/C/Users/IRAMAX/Desktop/fff/code/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1209,
+								1209
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div class=\"colors\">",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/C/Users/IRAMAX/Desktop/fff/code/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10417,
+								10417
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* Please ❤ this if you like it! */",
 							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/C/Users/IRAMAX/Desktop/fff/code/player.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var player = $('.player'),",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/C/Users/IRAMAX/Desktop/fff/code/eendex.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<audio src=\"${ song.url }\" id=\"audio\"></audio>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/C/Users/IRAMAX/Desktop/fff/code/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<style>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "/D/nothinginteractive-gradient/dist/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -356,33 +1883,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/D/ACETATE/one/acetate/js/style.css",
+					"buffer": 36,
+					"file": "/C/Users/IRAMAX/AppData/Local/Temp/Temp1_peeled-text-transforms.zip/peeled-text-transforms/dist/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2372,
+						"buffer_size": 1748,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44,
-								44
+								0,
+								1748
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -390,7 +1915,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -416,7 +1941,7 @@
 		"cols":
 		[
 			0.0,
-			0.490599294947,
+			0.124464474072,
 			1.0
 		],
 		"rows":
@@ -434,7 +1959,7 @@
 	"project": "acetate.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -464,7 +1989,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -472,7 +1997,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 174.0,
+	"side_bar_width": 278.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
